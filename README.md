@@ -24,7 +24,6 @@
    ```bash
    git clone https://github.com/Nazoferon/OptiFi.git
 
-
 Відкрий проєкт у Android Studio:
 Запусти Android Studio.
 Вибери File > Open і вкажи папку OptiFi.
@@ -113,4 +112,4 @@ Google Play Services: Для відстеження локації.
 GitHub: Nazoferon
 Email: (додай свій email, якщо бажаєш)
 
-Останнє оновлення: 21 липня 2025```
+Останнє оновлення: 21 липня 2025
